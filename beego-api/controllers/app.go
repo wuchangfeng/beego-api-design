@@ -1,9 +1,9 @@
 package controllers
 
 import (
-	"beego-api/models"
 	"encoding/json"
 	"errors"
+	"github.com/wuchangfeng/beego-api-design/beego-api/models"
 	"strconv"
 	"strings"
 

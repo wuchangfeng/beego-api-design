@@ -1,7 +1,7 @@
 package main
 
 import (
-	_ "beego-api/routers"
+	_ "github.com/wuchangfeng/beego-api-design/beego-api/routers"
 
 	"github.com/astaxie/beego"
 	"github.com/astaxie/beego/orm"
@@ -19,4 +19,3 @@ func main() {
 	}
 	beego.Run()
 }
-
