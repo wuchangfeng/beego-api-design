@@ -1,5 +1,5 @@
 # beego-api-design
-Design restful api with beego and generate doc automaticlly.[related article here.](http://allenwu.itscoder.com/use-beego-generate-api-and-know-swagger)
+Design restful api with beego and generate doc automaticlly.[related article here.](http://allenwu.itscoder.com/use-beego-generate-api-and-know-swagger) and also you can test the api [Here.](https://goapi-ahme.rhcloud.com/swagger/)
 
 **GetAll**
 ![](https://ws2.sinaimg.cn/large/b10d1ea5jw1fbg0erwh4vj21kw17hdrt.jpg)
